@@ -31,23 +31,23 @@ I also enjoy sharing my knowledge through writing and blogging. Here are some of
 - :book: [Building Scalable Web Applications](https://medium.com/@silentBob/building-scalable-web-applications) - A guide to best practices for developing scalable and maintainable web applications.
 - :spiral_note_pad: [Data Visualization with Python](https://medium.com/@silentBob/data-visualization-with-python) - Exploring the power of data visualization using Python libraries. -->
 
-## :mailbox: Connect with Me
+<!-- ## :mailbox: Connect with Me
 
 Feel free to reach out to me on [LinkedIn](musician and martial arts practitioner!)<!-- or check out my [personal website](https://silentbob.dev). -->
 
 ## :hammer_and_wrench: Tools I Use
 
 <p align=“left”>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt=“vscode” width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt=“python” width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" alt=“HTML” width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" alt=“CSS” width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt=“react” width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.svg" alt=“Tailwind” width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/netlify.svg" alt=“netlify” width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/anaconda.svg" alt=“anaconda” width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt=“javascript” width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt=“git” width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt=“github” width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt=“linux” width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" alt="HTML" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" alt="CSS" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.svg" alt="Tailwind" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/netlify.svg" alt="netlify" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/anaconda.svg" alt="anaconda" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
 </p>
